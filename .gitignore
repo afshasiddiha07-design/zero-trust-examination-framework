@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project-specific
+node_modules/
+*.db
+backend/generated_pdfs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+ai-monitor/*.pt
+screenshots/*.mp4
